@@ -1,6 +1,6 @@
-# instagram_clone
+# Instagram_Clone
 
-인스타그램 클론
+인스타그램 클론 (플러터 제작)
 
 ## Getting Started
 
